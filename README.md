@@ -30,7 +30,7 @@ Open Heart_prediction.ows
 
 Load the dataset and run the workflow
 
-* Project Files
+ Project Files
 Heart_prediction.ows
 dataset.csv
 README.md
