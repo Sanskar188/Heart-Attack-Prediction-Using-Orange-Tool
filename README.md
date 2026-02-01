@@ -1,8 +1,8 @@
-Heart Attack Prediction
+* Heart Attack Prediction
 
 A machine learning project to predict the risk of a heart attack using medical data. Built using the Orange Data Mining Tool with multiple ML algorithms.
 
-Tech Stack
+* Tech Stack
 
 Orange Data Mining
 
@@ -10,7 +10,7 @@ Machine Learning
 
 CSV Dataset
 
-Models Used
+* Models Used
 
 Logistic Regression
 
@@ -22,7 +22,7 @@ KNN
 
 SVM
 
-How to Run
+* How to Run
 
 Install Orange Data Mining
 
@@ -30,15 +30,15 @@ Open Heart_prediction.ows
 
 Load the dataset and run the workflow
 
-Project Files
+* Project Files
 Heart_prediction.ows
 dataset.csv
 README.md
 
-Author
+* Author
 
 Sanskar
 
-Disclaimer
+* Disclaimer
 
 For educational purposes only.
